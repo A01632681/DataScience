@@ -1,2 +1,2 @@
 # DataScienceLabs
-All my labs form the Data Science Course of Uni of Essex
+All my labs from the Data Science Course of Uni of Essex
