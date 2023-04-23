@@ -1,0 +1,3 @@
+# Assigment 2
+This repository contains the code that was used in order to accomplish the stress dectection project. It also contains some of the tries that were key in order to complete the final report, this are contained in the AssignmentTestsColab and AssigmentTests files. 
+The main code is contained in the Assigment 2 file, in order to run it you'll need to run it in a Jupyter Notebook editor. You'll need internet connection since it access the raw data contained in the https://github.com/italha-d/Stress-Predict-Dataset Git repository.
